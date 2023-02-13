@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Uthappizza",
-      "image": "images/uthappizza.png",
+      "image": "images/f1.png",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
@@ -13,7 +13,7 @@
     {
       "id": 1,
       "name": "Zucchipakoda",
-      "image": "images/zucchipakoda.png",
+      "image": "images/f2.png",
       "category": "appetizer",
       "label": "",
       "price": "1.99",
@@ -215,7 +215,7 @@
     {
       "id": 0,
       "name": "Weekend Grand Buffet",
-      "image": "images/buffet.png",
+      "image": "images/f2.png",
       "label": "New",
       "price": "19.99",
       "featured": true,
@@ -253,7 +253,7 @@
     {
       "id": 3,
       "name": "Alberto Somayya",
-      "image": "images/alberto.png",
+      "image": "images/f3.png",
       "designation": "Executive Chef",
       "abbr": "EC",
       "featured": true,
